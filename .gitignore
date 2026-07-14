@@ -22,3 +22,6 @@ jspm_packages/
 
 # Vendor directories
 vendor/
+
+# CircleMUD world preview generated files
+week0_explore/preview/data/world/
