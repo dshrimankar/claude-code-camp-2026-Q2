@@ -1,0 +1,17 @@
+==================================================
+MUD COMBAT SESSION RESULTS
+==================================================
+
+Date: 2026-07-14 15:59:40.966184
+Username: dummy
+
+COMBAT STATISTICS:
+  Mobs Killed: 0
+  Deaths: 0
+  Total XP Gained: 0
+  Final HP: 100/100
+
+COMBAT LOG:
+
+==================================================
+Full session log: /Users/dshri/code/claude-code-camp-2026-Q2/week0_explore/explore_architecture/02_agent_skills/mud-player-workspace/iteration-1/combat-test/without_skill/outputs/session_20260714_155508.log

@@ -1,0 +1,6 @@
+{
+  "eval_id": 2,
+  "eval_name": "character-info-test",
+  "prompt": "connect to the mud (localhost:4000, user: dummy, pass: helloworld) and check my character's current stats and inventory. what equipment do i have and what's my health/level looking like?",
+  "assertions": []
+}

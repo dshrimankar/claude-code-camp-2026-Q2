@@ -1,0 +1,13 @@
+============================================================
+COMBAT SESSION SUMMARY
+============================================================
+Mobs Killed: 0
+Total XP Gained: 0
+Healing Sessions: 0
+
+Loot Obtained (0 items):
+  (none)
+
+Combat Log:
+  Session started
+============================================================

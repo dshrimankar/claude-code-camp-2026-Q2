@@ -1,0 +1,62 @@
+CHARACTER INFORMATION SUMMARY
+=============================
+
+CHARACTER NAME: Dummy
+TITLE: Dummy the Swordpupil
+LEVEL: 1
+AGE: 17 years old
+
+VITAL STATISTICS:
+-----------------
+Health Points (HP): 24/25 (currently 22 after combat damage)
+Mana: 100/100
+Movement: 11/85
+Armor Class: 39/10
+Alignment: 15
+
+EXPERIENCE & PROGRESSION:
+-------------------------
+Current Experience: 136 XP
+Experience to Next Level: 1864 XP
+Quest Points: 0
+Quests Completed: 0
+Gold Coins: 0
+
+STATUS:
+-------
+- Currently fighting a goblin
+- Character is hungry
+- Play time: 0 days and 0 hours
+
+EQUIPMENT (Worn/Wielded):
+-------------------------
+Light Source: a candle
+Finger (1): a leather ring
+Finger (2): a leather ring
+Neck (1): a leather gorget
+Neck (2): a leather gorget
+Body: a breast plate
+Head: a leather cap
+Legs: a pair of bronze leggings
+Feet: a pair of leather boots
+Hands: a pair of leather gloves
+Arms: a pair of leather sleeves
+Shield: a shield
+About Body: a brown leather cape
+Waist: an old leather belt
+Wrist (1): a leather wristguard
+Wrist (2): a leather wristguard
+Wielded: a small sword
+Held: a metal staff
+
+INVENTORY:
+----------
+Nothing (empty inventory)
+
+COMBAT NOTES:
+-------------
+The character was engaged in combat with a goblin during the session. Combat messages showed:
+- Character using pierce attacks with varying success
+- Goblin using pound attacks
+- Character took minimal damage (25 HP -> 22 HP)
+- Character is equipped with basic starting gear (leather armor, small sword, shield)

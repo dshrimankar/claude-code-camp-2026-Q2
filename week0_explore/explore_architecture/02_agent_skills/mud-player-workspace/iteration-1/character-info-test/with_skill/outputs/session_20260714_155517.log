@@ -1,0 +1,69 @@
+
+Attempting to Detect Client, Please Wait...
+��
+[H[J[1;31m[[1;31mClient[1;31m] [0;37mUnknown[0;00m | [1;31m[[1;31mColors[1;31m] [0;37mAnsi[0;00m | [1;31m[[1;31mMXP[1;31m] [0;37mNo[0;00m | [1;31m[[1;31mMSDP[1;31m] [0;37mNo[0;00m | [1;31m[[1;31mATCP[1;31m] [0;37mNo[0;00m
+
+                               T  B  A  M  U  D
+                                   2 0 2 5 
+
+   Based on CircleMUD by Jeremy Elson and DikuMUD by Hans-Henrik Staerfeldt,
+        Katja Nyboe, Tom Madsen, Michael Seifert, and Sebastian Hammer
+
+By what name do you wish to be known? >>> dummy
+Password: ��>>> helloworld
+��
+You take over your own body, already in use!
+
+25H 100M 11V (news) (motd) > >>> 
+25H 100M 11V (news) (motd) > >>> 1
+Huh!?!
+
+25H 100M 11V (news) (motd) > 
+The goblin has arrived.
+
+25H 100M 11V (news) (motd) > >>> score
+You are 17 years old.
+You have 25(25) hit, 100(100) mana and 11(85) movement points.
+Your armor class is 39/10, and your alignment is 15.
+You have 64 exp, 0 gold coins, and 0 questpoints.
+You need 1936 exp to reach your next level.
+You have earned 0 quest points.
+You have completed 0 quests, and you are not on a quest at the moment.
+You have been playing for 0 days and 0 hours.
+This ranks you as Dummy the Swordpupil (level 1).
+You are standing.
+You are hungry.
+
+25H 100M 11V (news) (motd) > >>> look
+[0;33mThe Deep Forest[0m
+   It is quite dark here, forest surrounds you.  With each step, the
+forest seems to close around you, and get darker and more foreboding.
+It might just be time to head back to somewhere safe.
+[0;36m[ Exits: n e s w ][0m
+[0;33mA mountain goblin is wandering around mumbling to himself...
+[0m
+25H 100M 11V (news) (motd) > >>> consider goblin
+You would need a lot of luck and great equipment!
+
+25H 100M 11V (news) (motd) > >>> kill goblin
+[0;33mYou try to pierce the goblin but pierce the air instead!
+[0m
+25H 100M 11V (news) (motd) > 
+The goblin tickles you as he pounds you.
+[0mYou barely pierce the goblin.
+[0m
+24H 100M 11V (news) (motd) > >>> get all corpse
+You don't have a corpse.
+
+24H 100M 11V (news) (motd) > 
+[0;31mYou jump out of the way in a panic as the goblin pounds at you!
+[0m[0;33mYou lunge at the goblin without managing to pierce him.
+[0m
+24H 100M 11V (news) (motd) > >>> rest
+
+This body has been usurped!
+
+Multiple login detected -- disconnecting.
+>>> stand
+>>> score
+>>> look

@@ -1,0 +1,6 @@
+{
+  "eval_id": 3,
+  "eval_name": "combat-test",
+  "prompt": "ok so i'm playing this MUD game on localhost 4000 (username dummy password helloworld) and i'm trying to level up. can you help me find some easy mobs to fight, kill a few of them, and make sure i don't die? like be smart about it and rest when health is low",
+  "assertions": []
+}

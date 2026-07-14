@@ -1,0 +1,142 @@
+================================================================================
+CHARACTER INFORMATION SUMMARY - DUMMY
+================================================================================
+Retrieved: 2026-07-14 15:54:52
+Server: localhost:4000
+Character: dummy
+
+================================================================================
+BASIC STATS
+================================================================================
+Character Name: Dummy the Swordpupil
+Level: 1
+Age: 17 years old
+Class: Swordpupil (appears to be a warrior/fighter class)
+Rank/Title: Dummy the Swordpupil (level 1)
+Alignment: 15 (slightly good)
+
+================================================================================
+VITAL STATISTICS
+================================================================================
+Hit Points (HP): 25/25 (100% - FULL HEALTH)
+Mana: 100/100 (100% - FULL MANA)
+Movement: 11/85 (13% - LOW MOVEMENT, character is hungry)
+
+Armor Class: 39/10
+Status: Standing
+Condition: Hungry (affecting movement regeneration)
+
+================================================================================
+EXPERIENCE & PROGRESSION
+================================================================================
+Current Experience: 64 XP
+Experience Needed for Next Level: 1936 XP
+Progress to Level 2: 3.2% (64/2000 total XP needed)
+
+Gold Coins: 0
+Quest Points: 0
+Quests Completed: 0
+Current Quest: None
+
+================================================================================
+PLAY TIME
+================================================================================
+Total Time Played: 0 days and 0 hours (new character)
+
+================================================================================
+INVENTORY
+================================================================================
+Items in Inventory: NONE
+The character is carrying nothing.
+
+================================================================================
+EQUIPMENT (WORN/WIELDED)
+================================================================================
+Light Source:
+  - a candle (used as light)
+
+Jewelry:
+  - a leather ring (worn on finger)
+  - a leather ring (worn on finger)
+  - a leather gorget (worn around neck)
+  - a leather gorget (worn around neck)
+
+Armor:
+  - a breast plate (worn on body)
+  - a leather cap (worn on head)
+  - a pair of bronze leggings (worn on legs)
+  - a pair of leather boots (worn on feet)
+  - a pair of leather gloves (worn on hands)
+  - a pair of leather sleeves (worn on arms)
+  - a brown leather cape (worn about body)
+  - an old leather belt (worn about waist)
+  - a leather wristguard (worn around wrist)
+  - a leather wristguard (worn around wrist)
+
+Weapons & Shield:
+  - a small sword (wielded)
+  - a shield (worn as shield)
+
+Held Item:
+  - a metal staff (held)
+
+Total Equipment Slots Used: 17/17 (fully equipped)
+
+================================================================================
+EQUIPMENT ANALYSIS
+================================================================================
+The character is fully equipped with starter/newbie gear:
+- Mix of leather armor and some bronze/metal pieces
+- Basic weapons: small sword (primary) and metal staff (held)
+- Has a shield for defense
+- Wearing a light source (candle)
+- All equipment appears to be basic/starter quality
+
+Equipment Quality: Beginner/Starter tier
+- Mostly leather items with some basic metal reinforcements
+- Appropriate for a level 1 character
+- No magical items detected
+- No special properties noted
+
+================================================================================
+CHARACTER ASSESSMENT
+================================================================================
+Overall Status: HEALTHY but HUNGRY
+
+Strengths:
+- Full HP (25/25) - ready for combat
+- Full Mana (100/100) - can use abilities if available
+- Fully equipped with starter gear
+- Has defensive equipment (shield, armor)
+
+Concerns:
+- Very low movement points (11/85) - needs to rest or eat
+- Hungry status - affecting stamina/movement regeneration
+- No gold - cannot purchase items or services
+- Empty inventory - no consumables or backup items
+- Low experience - just starting out
+
+Immediate Needs:
+1. Find food to restore movement points and remove hunger status
+2. Begin gaining experience through quests or combat
+3. Acquire gold for purchasing better equipment
+4. Stock inventory with useful consumables (healing items, food, water)
+
+Recommended Actions:
+- Look for food sources (shops, NPCs, or forage)
+- Explore newbie area for starting quests
+- Engage in combat with appropriate-level mobs to gain experience
+- Collect any loot to sell for starting gold
+
+================================================================================
+SESSION NOTES
+================================================================================
+- Character was already logged in when connection attempted
+- Successfully reconnected and took over the existing session
+- Weather: Rain had recently stopped
+- Character is in a location with news and motd notifications pending
+- Session completed successfully with graceful logout
+
+================================================================================
+END OF REPORT
+================================================================================
