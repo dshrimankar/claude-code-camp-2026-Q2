@@ -1,6 +1,0 @@
-{
-  "eval_id": 1,
-  "eval_name": "exploration-test",
-  "prompt": "i want to play the MUD on localhost:4000, my username is dummy password is helloworld. can you help me explore around and find out where i am and what's nearby? maybe look around and try moving to a few different rooms",
-  "assertions": []
-}
