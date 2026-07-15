@@ -73,6 +73,56 @@
 **Description**: Guild for fighter classes. Contains entrance hall, bar, and practice yard
 **Services**: Skill practice (kick available for level 1+)
 
+### Newbie Zone (North of Midgaard - MAJOR)
+**Entrance**: The Entrance To The Newbie Zone (east from Great Field)
+**Danger Level**: MODERATE to HIGH in dark areas, LOW in bright areas
+**Layout**: Multi-level dungeon with bright passages and dangerous dark dungeons below
+
+**Upper Sections (Safe)**:
+- Beginning Of The Passage: Entry hall with creepy crawlers
+- Dirty Hallway: Smelly passage with door to small room
+- Small Room: Contains Newbie Guard, well with locked grate
+- Nexus: Intersection with doors (some closed/locked)
+- A Bright Hallway: Clean, decorated passage with newbies
+- The Statue's Room: Contains statue, newbies
+- The Hallway: Decorated with banners
+- North Stairs & South Stairs: Large domed rooms with balconies
+- The Alchemist's Room: Potions and books, Newbie Alchemist, dark stairway down
+
+**Lower Sections (Dangerous)**:
+- The Entrance (dark): Zombified newbies, imps, general danger
+- A Passage: Narrow, disgusting fungal walls
+- A Turn In The Passage: Smell of death, imps
+- A Branch To The South: Odor of death, imps
+- Yet Another Corner: Zombified newbies, quasits
+- An Intersection Of Passages: Cold, fungal, zombies
+- Another Corner: More fungus, zombies
+- A T-Intersection: Clearer air, multiple directions
+- Another Corner (east branch): Zombie and weird sounds
+- A Turn In The Passage (west branch): Strange glow to south
+- **The Red Room**: Contains red glowing portal on floor, **HOME OF THE GREAT MINOTAUR** ✅
+
+**Monsters**:
+- Creepy little crawling things (scuttling)
+- Newbie monsters (confused, non-threatening)
+- Newbie Guard (quest NPC?)
+- Newbie Alchemist (quest NPC?)
+- Zombified newbies (dangerous, medium difficulty, avoid or be patient)
+- Quasits/imp-like things (sneaking, non-hostile)
+- **The Great Minotaur** (BOSS, defeated!) ✅
+
+**Loot Found**:
+- Gold coins scattered in large room area (70 coins from minotaur corpse)
+- **Horns of the Minotaur** (trophy weapon/item)
+- **Smelly Hide of the Minotaur** (trophy item)
+
+**Navigation Notes**:
+- Many doors are closed and require "open door" command
+- Movement through dark zone is slow due to fungal passages
+- Hunger/thirst status triggers during exploration for HP recovery
+- Must navigate carefully through zombie-infested areas
+- Portal in Red Room leads to minotaur's lair
+
 ## Navigation Shortcuts
 
 ### Spawn to Midgaard:
@@ -88,7 +138,16 @@ From Miden'nir spawn � n, n, n, n � e � n � n � w � w � n � e �
 - Town Crier: On Emerald Avenue
 - Fidos (dogs): On Main Street, scavenging
 
-## Notes
+## Major Quest Completion
+- **MINOTAUR DEFEATED**: Defeated The Great Minotaur in The Red Room
+  - Boss location: Deep in Newbie Zone dark dungeons
+  - Battle strategy: Persistent attacks through long grueling fight
+  - Reward: 2,684 EXP (leveled 1→3), 70 gold, Horns & Hide trophies
+  - Character progression: Level 1 Swordpupil → Level 3 Sentry
+
+## General Notes
 - Movement recovery is slow, sleep recovers faster than rest
 - Day/night cycle exists (saw sunrise during session)
 - Graveyard exists but grate is closed
+- Hunger/thirsty status provides HP recovery during combat (critical discovery!)
+- Chessboard area west of Great Field is far above level 1 (avoided for now)
