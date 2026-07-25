@@ -25,3 +25,129 @@ vendor/
 
 # CircleMUD world preview generated files
 week0_explore/preview/data/world/
+
+# macOS System Files
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Secrets & Credentials
+*.key
+*.pem
+*.p12
+*.pfx
+*.cer
+*.crt
+*.pub
+secrets.yml
+secrets.yaml
+credentials.json
+auth.json
+*.credentials
+.secret
+.secrets/
+config/secrets.yml
+config/master.key
+
+# API Keys & Tokens
+.env.*
+!.env.example
+!.env.sample
+.api-keys
+token.txt
+*_token
+*_secret
+*.token
+
+# User-specific Boukensha configuration
+.boukensha/
+
+# IDE & Editor Files
+# VSCode
+.vscode/
+!.vscode/extensions.json
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.iws
+
+# Vim
+*.swp
+*.swo
+*~
+.*.sw?
+
+# Emacs
+*~
+\#*\#
+.#*
+
+# OS-Specific
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+.Trash-*
+
+# Logs & Temporary Files
+*.log
+logs/
+*.tmp
+*.temp
+tmp/
+temp/
+.cache/
+
+# Python-Specific
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+ENV/
+env/
+
+# Ruby-Specific
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/spec/examples.txt
+/test/tmp/
+/test/version_tmp/
+/.bundle/
+/vendor/bundle
+lib/bundler/man/
+.ruby-version
+.ruby-gemset
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*.orig
