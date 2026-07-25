@@ -67,6 +67,7 @@ registry.tool(
 print("=== BOUKENSHA Step 2: Tool Registry ===")
 print()
 print(f"Config:  {config}")
+print(f"System:  {ctx.system}")
 print(f"Context: {ctx}")
 print("Tools:")
 for tool in ctx.tools.values():
