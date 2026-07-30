@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "boukensha"
+version = "0.9.0"
+description = "BOUKENSHA — a tiny teaching framework for coding harnesses"
+readme = "README.md"
+requires-python = ">=3.8"
+license = {text = "MIT"}
+authors = [
+    {name = "Andrew Brown", email = "andrew@exampro.co"}
+]
+keywords = ["mud", "agent", "llm", "teaching", "framework"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+]
+dependencies = [
+    "python-dotenv",
+    "PyYAML",
+    "requests",
+]
+
+[project.urls]
+Homepage = "https://github.com/exampro/boukensha"
+Documentation = "https://github.com/exampro/boukensha"
+Repository = "https://github.com/exampro/boukensha"
+
+[project.scripts]
+boukensha = "boukensha_loader:main"
+
+[tool.setuptools]
+packages = ["boukensha", "boukensha.backends", "boukensha.tasks"]
+py-modules = ["boukensha_loader"]
+
+[tool.setuptools.package-data]
+boukensha = ["prompts/*.md"]
